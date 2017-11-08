@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bce2709c-ccc4-460b-b1ce-419623c896dd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Lab5failure/edu/ucsd/cs110/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Lab5failure/edu/ucsd/cs110/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Lab5failure/edu/ucsd/cs110/temperature/Celsius.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Lab5failure/edu/ucsd/cs110/temperature/Fahrenheit.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Lab5failure/edu/ucsd/cs110/temperature/Temperature.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Lab5failure/edu/ucsd/cs110/temperature/TemperatureConverter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Lab5failure/edu/ucsd/cs110/tests/CelsiusTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Lab5failure/edu/ucsd/cs110/tests/FahrenheitTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/lib/junit-4.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/temperature/Celsius.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/temperature/Fahrenheit.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/temperature/Temperature.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/temperature/TemperatureConverter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/tests/CelsiusTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/tests/FahrenheitTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/ucsd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab5failure.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project110.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Lab5failure/edu/ucsd/cs110/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Lab5failure/edu/ucsd/cs110/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Lab5failure/edu/ucsd/cs110/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Lab5failure/edu/ucsd/cs110/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Project110/edu/ucsd/cs110/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projectFilesBackup/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/ucsd" afterPath="$PROJECT_DIR$/src/edu/ucsd" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -285,7 +246,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510181245380</updated>
-      <workItem from="1510181250996" duration="1134000" />
+      <workItem from="1510181250996" duration="1145000" />
     </task>
     <servers />
   </component>
@@ -295,7 +256,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1134000" />
+    <option name="totallyTimeSpent" value="1145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
